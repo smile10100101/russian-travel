@@ -2,7 +2,7 @@
     min-height: 740px;
     box-sizing: border-box;
     text-decoration: none;
-    background: url('./../../../images/cover/cover-trains.jpg');
+    background: url('../../../images/cover/cover-trains.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
