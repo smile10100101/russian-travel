@@ -6,4 +6,4 @@
 
 ## Flexbox, Grid, адаптивная верстка, семантическая верстка, позиционирование элементов, БЭМ(Nested).
 
-## https://github.com/smile10100101/russian-travel.git
+## https://smile10100101.github.io/russian-travel/
