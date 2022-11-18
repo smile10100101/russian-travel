@@ -2,6 +2,8 @@
     max-width: 100%;
     grid-column: 1;
     grid-row: 2;
+    object-fit: cover;
+    display: block;
 }
 
 @media screen and (max-width: 1279px) and (min-width: 1024px) {

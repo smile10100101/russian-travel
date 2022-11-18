@@ -35,6 +35,7 @@
 @import url(../blocks/website/website.css);
 @import url(../blocks/website/__url-heading/website__url-heading.css);
 @import url(../blocks/website/__link/website__link.css);
+@import url(../blocks/website/__span-accent/website__span-accent.css);
 
 @import url(../blocks/paragraphs/paragraphs.css);
 @import url(../blocks/paragraphs/__paragraph/paragraphs__paragraph.css);

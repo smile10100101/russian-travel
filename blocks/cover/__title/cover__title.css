@@ -9,6 +9,7 @@
     font-size: 72px;
     line-height: 76px;
     text-align: center;
+    letter-spacing: 0em;
     position: relative;
     z-index: 3;
 }
