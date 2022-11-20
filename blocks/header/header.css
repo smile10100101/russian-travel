@@ -4,7 +4,7 @@
     padding: 28px 48px 56px 48px;
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    /**align-items: flex-end;   это свойство здесь ничего не меняет**/
 }
 
 @media screen and (max-width: 1279px) and (min-width: 1024px) {

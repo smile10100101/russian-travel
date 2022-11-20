@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center;
+  /**justify-content: center;     ничего не меняет наверно **/
   align-self: flex-end;
   list-style: none;
   gap: 18px;
